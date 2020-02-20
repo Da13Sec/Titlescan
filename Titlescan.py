@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 #====#====#====#====
 #FileName: *.py
-#Version:1.0.0
+#python-Version:3.8
 #auther:Da13
 #====#====#====#====
 import requests
