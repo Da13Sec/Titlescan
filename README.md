@@ -19,7 +19,7 @@ selenium
 
 # 用法
 
-1. pip3 install requirments.txt
+1. pip3 install -r requirments.txt
 
 2. 将要测试的urls保存为Titlescan.py同级目录下的urls.txt。
 3. python3 Titlescan.py也可以直接放进编辑器中运行
